@@ -1,6 +1,6 @@
 # 📌 Wallet Generator using Email & Password
 
-This Node.js project allows you to generate a deterministic Ethereum
+This project allows you to generate a deterministic Ethereum
 wallet (or multiple wallets) using just an email and password as input.
 
 ## 🚀 Features
@@ -13,7 +13,6 @@ wallet (or multiple wallets) using just an email and password as input.
 
 ## 🛠 Tech Stack
 
-- Node.js
 - crypto (for hashing email:password)
 - bip39 (for mnemonic seed phrase)
 - ethers.js (for wallet generation)
